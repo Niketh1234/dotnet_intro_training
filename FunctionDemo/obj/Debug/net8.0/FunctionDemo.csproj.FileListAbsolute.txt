@@ -1,0 +1,14 @@
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\obj\Debug\net8.0\FunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\obj\Debug\net8.0\FunctionDemo.AssemblyInfoInputs.cache
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\obj\Debug\net8.0\FunctionDemo.AssemblyInfo.cs
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\obj\Debug\net8.0\FunctionDemo.csproj.CoreCompileInputs.cache
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\bin\Debug\net8.0\FunctionDemo.exe
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\bin\Debug\net8.0\FunctionDemo.deps.json
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\bin\Debug\net8.0\FunctionDemo.runtimeconfig.json
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\bin\Debug\net8.0\FunctionDemo.dll
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\bin\Debug\net8.0\FunctionDemo.pdb
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\obj\Debug\net8.0\FunctionDemo.dll
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\obj\Debug\net8.0\refint\FunctionDemo.dll
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\obj\Debug\net8.0\FunctionDemo.pdb
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\obj\Debug\net8.0\FunctionDemo.genruntimeconfig.cache
+C:\Users\pulkit\Desktop\work\Dotnet\FunctionDemo\obj\Debug\net8.0\ref\FunctionDemo.dll
